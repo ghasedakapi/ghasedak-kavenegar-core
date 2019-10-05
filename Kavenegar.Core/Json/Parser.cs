@@ -5,7 +5,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Kavenegar.Core.Json
+namespace Ghasedak.Kavenegar.Core.Json
 {
  /// <summary>
  /// Contains the façade-style class to perform Json operations

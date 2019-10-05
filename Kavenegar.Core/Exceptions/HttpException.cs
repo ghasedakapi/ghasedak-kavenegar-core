@@ -1,4 +1,4 @@
-namespace Kavenegar.Core.Exceptions
+namespace Ghasedak.Kavenegar.Core.Exceptions
 {
  public class HttpException : KavenegarException
  {

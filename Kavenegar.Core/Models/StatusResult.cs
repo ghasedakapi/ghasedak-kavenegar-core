@@ -1,5 +1,5 @@
-using Kavenegar.Core.Models.Enums;
-namespace Kavenegar.Core.Models
+using Ghasedak.Kavenegar.Core.Models.Enums;
+namespace Ghasedak.Kavenegar.Core.Models
 {
  public class StatusResult
  {

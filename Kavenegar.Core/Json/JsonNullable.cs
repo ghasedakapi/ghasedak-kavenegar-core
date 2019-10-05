@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kavenegar.Core.Json
+namespace Ghasedak.Kavenegar.Core.Json
 {
  public class JsonNullable : JsonObject
  {

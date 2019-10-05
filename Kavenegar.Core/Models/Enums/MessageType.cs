@@ -1,4 +1,4 @@
-namespace Kavenegar.Core.Models.Enums
+namespace Ghasedak.Kavenegar.Core.Models.Enums
 {
  public enum MessageType
  {

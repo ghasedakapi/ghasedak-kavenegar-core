@@ -1,25 +1,28 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Version>1.0.1-alpha2</Version>
+    <Version>1.0.1</Version>
     
     <TargetFrameworks>netstandard1.2;netstandard1.3;netstandard1.4;netstandard1.5;netstandard1.6;netstandard2.0;</TargetFrameworks>
-    <Description>A cross-platform library for the kavenegar sms provider; written in C#</Description>
-    <RootNamespace>Kavenegar.Core</RootNamespace>
-    <AssemblyTitle>Kavenegar.Core</AssemblyTitle>
-    <AssemblyName>Kavenegar.Core</AssemblyName>
+    <Description>A cross-platform library for the ghasedak sms provider; written in C# ( migrate from kavenegar to ghasedak )</Description>
+    <RootNamespace>Ghasedak.Kavenegar.Core</RootNamespace>
+    <AssemblyTitle>Ghasedak.Kavenegar.Core</AssemblyTitle>
+    <AssemblyName>Ghasedak.Kavenegar.Core</AssemblyName>
     
-    <PackageId>Kavenegar.Core</PackageId>
-    <PackageTags>Kavenegar Core kavenegar.Core kavenegarCore</PackageTags>
-    <PackageIconUrl>https://secure.gravatar.com/avatar/0742fdb693a34ceb3f107cdfc0b3b24e?s=128</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/mberneti/Kavenegar.Core</PackageProjectUrl>
+    <PackageId>Ghasedak.Kavenegar.Core</PackageId>
+    <PackageTags>.net core,sms,ghasedak kavenegar,.netcore sdk, sms sdk</PackageTags>
+    <PackageIconUrl>https://ghasedak.io/img/logo.png</PackageIconUrl>
+    <PackageProjectUrl>https://ghasedak.io/kavenegar</PackageProjectUrl>
 
     <OutputType>Library</OutputType>    
     <RestorePackages>true</RestorePackages>
     <BuildPackage>true</BuildPackage>
-    <Authors>Mohammadreza Berneti (mberneti@live.com)</Authors>
+    <Authors>Mojtaba Moradi (mojtabamoradi.net@outlook.com)</Authors>
+    <Owner>Ghasedak</Owner>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/mberneti/kavenegar.Core</RepositoryUrl>
+    <RepositoryUrl>https://github.com/ghasedakapi/ghasedak-kavenegar-core</RepositoryUrl>
+    <Company>Ghasedak</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 
   </PropertyGroup>
 

@@ -4,15 +4,15 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
-using Kavenegar.Core.Exceptions;
-using Kavenegar.Core.Models;
-using Kavenegar.Core.Models.Enums;
-using Kavenegar.Core.Utils;
+using Ghasedak.Kavenegar.Core.Exceptions;
+using Ghasedak.Kavenegar.Core.Models;
+using Ghasedak.Kavenegar.Core.Models.Enums;
+using Ghasedak.Kavenegar.Core.Utils;
 using System.Net.Http;
 using Newtonsoft.Json;
 using System.Threading.Tasks;
 
-namespace Kavenegar
+namespace Ghasedak.Kavenegar
 {
     internal class ReturnResult
     {
@@ -88,7 +88,7 @@ namespace Kavenegar
         private int _returnCode = 200;
         private string _returnMessage = "";
         private const string Apipath = "{0}/{1}.{2}";
-        private const string BaseUrl = "http://api.kavenegar.com/v1";
+        private const string BaseUrl = "https://api.ghasedak.io/kavenegar/v1";
         public KavenegarApi(string apikey)
         {
             _apikey = apikey;

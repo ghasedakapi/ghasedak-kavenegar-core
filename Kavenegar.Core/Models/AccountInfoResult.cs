@@ -1,5 +1,5 @@
 using System;
-namespace Kavenegar.Core.Models
+namespace Ghasedak.Kavenegar.Core.Models
 {
  public class AccountInfoResult
  {

@@ -1,6 +1,6 @@
-﻿using Kavenegar.Core.Json;
+﻿using Ghasedak.Kavenegar.Core.Json;
 
-namespace Kavenegar.Core.Json
+namespace Ghasedak.Kavenegar.Core.Json
 {
  public class JsonNumber : JsonObject
  {

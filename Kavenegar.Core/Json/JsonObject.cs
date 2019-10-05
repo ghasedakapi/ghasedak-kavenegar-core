@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Kavenegar.Core.Json
+namespace Ghasedak.Kavenegar.Core.Json
 {
  /// <summary>
  /// JsonObject is the base class.

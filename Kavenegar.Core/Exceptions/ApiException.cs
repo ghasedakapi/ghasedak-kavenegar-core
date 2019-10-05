@@ -1,6 +1,6 @@
-using Kavenegar.Core.Models.Enums;
+using Ghasedak.Kavenegar.Core.Models.Enums;
 
-namespace Kavenegar.Core.Exceptions
+namespace Ghasedak.Kavenegar.Core.Exceptions
 {
  public class ApiException : KavenegarException
  {

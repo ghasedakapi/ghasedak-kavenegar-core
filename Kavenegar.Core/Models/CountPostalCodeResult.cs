@@ -1,4 +1,4 @@
-namespace Kavenegar.Core.Models
+namespace Ghasedak.Kavenegar.Core.Models
 {
  public class CountPostalCodeResult
  {
