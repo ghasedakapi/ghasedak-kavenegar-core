@@ -60,18 +60,18 @@ catch (HttpException ex)
 
 ### مستندات
 
-برای مشاهده اطلاعات کامل مستندات  به صفحه [مستندات وب سرویس](https://ghasedak.io/developers) مراجعه نمایید.
+برای مشاهده اطلاعات کامل مستندات  به صفحه [مستندات وب سرویس](https://ghasedak.me/developers) مراجعه نمایید.
  
 ### اطالاعات بیشتر
 برای مطالعه بیشتر به صفحه 
-[مهاجرت از کاوه نگار به قاصدک](https://ghasedak.io/kavenegar)
+[مهاجرت از کاوه نگار به قاصدک](https://ghasedak.me/kavenegar)
 مراجعه نمایید .
 
 
 ##
-![https://ghasedak.io](https://ghasedak.io/img/logo.png)		
+![https://ghasedak.me](https://ghasedak.me/img/logo.png)		
 
-[https://ghasedak.io](https://ghasedak.io)	
+[https://ghasedak.me](https://ghasedak.me)	
 
 </div>
 
